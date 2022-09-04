@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="ejemplo4.css" ?>
+<!-- ejemplo2.xml  SUCARNET -->
+<countries>
+<pais nombre="El Salvador" id="1">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+</pais>
+
+<pais nombre="Colombia" id="2">
+<departamento id="1" nombre="Medellin">
+<cabecera>Medellin</cabecera>
+<habitantes>2,569 millones</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<moneda>peso colombiano</moneda>
+<codigopais id="57">
+<area>4</area>
+</codigopais>
+</pais>
+
+</countries>

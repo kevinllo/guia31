@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejemplo2.css" ?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<ficha id="2" fechaingreso="17/02/2020">
+<nombre>Kevin Armando</nombre>
+<apellido>Grande Chavez</apellido>
+<direccion>San Salvador</direccion>
+<email>kevingrande2002@gmail.com</email>
+<github href="https://github.com/kevinllo">kevinllo</github>
+</ficha>
+<ficha id="3">
+<dui>0034389439-2</dui>
+<isss>112123244</isss>
+<afp>22322323</afp>
+</ficha>
+
+</fichero>
